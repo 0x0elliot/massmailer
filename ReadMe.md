@@ -30,7 +30,7 @@ git clone https://github.com/kiddocoder/massmailer
 
 
 
-
+<br>
 5. Go into the downloaded script's directory:
 
 
@@ -42,7 +42,7 @@ cd massmailer
 
 
 
-
+<br>
 6. Run the script using Python:
 
 
@@ -55,7 +55,7 @@ python3 massmailer.py
 
 
 
-
+<br>
 7. Fill in the details asked and you are good.<br>
 
 
