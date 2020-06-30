@@ -1,4 +1,4 @@
-#Mass Mailer
+<h1>Mass Mailer</h1><br>
 Do you own a small business and you want an efficient, automatic and fast way to email your user about a new change about your business? Or maybe advertise something new?
 Or do you want to run a small email based ad-campaign for free but you just have a couple hundered emails and no money?
 Well this script has got your back :D
@@ -10,8 +10,8 @@ Well this script has got your back :D
 
 <h1>Requirements:</h1><br>
 1. An email account/SMTP server and an account on it.<br>
-2. Python 3.5+ (Preferably 3.8). You can install that from www.python.org
-
+2. Python 3.5+ (Preferably 3.8). You can install that from www.python.org<br>
+3. A list of emails in a text file. See emails.txt in the repository to know how your text document should look like.<br>
 
 <h1>How to use (Instructions for Gmail):</h1><br>
 <b>Note: The only difference between the intructions of gmail and other smtp servers would just be that you won't need to turn on 2 Factor Authentication and set up an app password in others probably.</b><br>
