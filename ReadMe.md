@@ -14,7 +14,8 @@ Well this script has got your back :D
 3. A list of emails in a text file. See emails.txt in the repository to know how your text document should look like.<br>
 
 <h1>How to use (Instructions for Gmail):</h1><br>
-<b>Note: The only difference between the intructions of gmail and other smtp servers would just be that you won't need to turn on 2 Factor Authentication and set up an app password in others probably.</b><br>
+<br>
+<b>Note: The only difference between the intructions of gmail and other smtp servers would just be that you won't need to turn on 2 Factor Authentication and set up an app password in others probably.</b><br><br>
 1. Go to https://myaccount.google.com/security and turn 2 Factor Authentication on (It's google's safety policy.)<br>
 2. After turning 2 Factor Authentication on, Go to https://myaccount.google.com/apppasswords click on "Select app", Select "Other (Custom Name)" and click "Generate"<br>
 3. You will be given your password which you will later use while accessing this script. You can always make a new one and making a new one everytime is recommended to keep things secure.<br>
