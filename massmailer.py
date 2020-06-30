@@ -39,8 +39,8 @@ print("Login successful!")
 
 for i in emails:
 	msg=f"""
-from: {name} <{email}>
-to: {i}
+From: {name} <{email}>
+To: {i}
 Subject: {subject}
 Body: {body}
 """
