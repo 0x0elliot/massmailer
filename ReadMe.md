@@ -4,9 +4,9 @@ Or do you want to run a small email based ad-campaign for free but you just have
 Well this script has got your back :D
 <br>
 <h1>Features:</h1><br>
-1. Email people just using a text file. It's fully automated so all you need is to wait for it to finish while you can lay back and relax.<br>
-2. It's efficient and does not reveal the email of one user to the other. It's all direct.<br>
-3. It's free! The only limitations you have are those provided by your mail provider.<br>
+1. Email people just using a text file. It's fully automated so all you need is to wait for it to finish while you can lay back and relax.<br><br>
+2. It's efficient and does not reveal the email of one user to the other. It's all direct.<br><br>
+3. It's free! The only limitations you have are those provided by your mail provider.<br><br>
 
 <h1>Requirements:</h1><br>
 1. An email account/SMTP server and an account on it.<br>
