@@ -23,7 +23,7 @@ context=ssl.create_default_context()
 
 while go:
 	try:
-		server.smtplib.SMTP(host,port)
+		server=smtplib.SMTP(host,port)
 		server.ehlo()
 		print("Successfully connected to the server..")
 		server.starttls(context=context)
