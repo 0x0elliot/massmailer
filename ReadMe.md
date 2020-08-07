@@ -25,7 +25,7 @@ Well this script has got your back :D
 
 
 ```
-git clone https://github.com/kiddocoder/massmailer
+git clone https://github.com/0x0elliot/massmailer
 ```
 
 
