@@ -1,8 +1,8 @@
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/0x0elliot/)
 <br>
-[![GitHub license](https://img.shields.io/github/license/0x0elliot/massmailer.js.svg)](https://github.com/0x0elliot/massmailer.js/blob/master/LICENSE)
-[![GitHub release](https://img.shields.io/github/release/0x0elliot/massmailer.js.svg)](https://GitHub.com/0x0elliot/massmailer.js/releases/) 
-[![GitHub issues](https://img.shields.io/github/issues/0x0elliot/massmailer.js.svg)](https://GitHub.com/0x0elliot/massmailer.js/issues/)
+[![GitHub license](https://img.shields.io/github/license/0x0elliot/massmailer.js.svg)](https://github.com/0x0elliot/massmailer/blob/master/LICENSE)
+[![GitHub release](https://img.shields.io/github/release/0x0elliot/massmailer.js.svg)](https://GitHub.com/0x0elliot/massmailer/releases/) 
+[![GitHub issues](https://img.shields.io/github/issues/0x0elliot/massmailer.js.svg)](https://GitHub.com/0x0elliot/massmailer/issues/)
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/0x0elliot/massmailer/) 
 <br>
 
